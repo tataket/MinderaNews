@@ -11,4 +11,11 @@
     <string name="description">description</string>
     <string name="description_hint">"description "</string>
     <string name="submit">submit</string>
+    <string name="create_events">CREATE EVENTS</string>
+    <string name="date">Date:</string>
+    <string name="select_date">Select Date</string>
+    <string name="location">Location:</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="time">Time:</string>
+    <string name="enter_time">Enter Time</string>
 </resources>
