@@ -22,4 +22,14 @@
         android:name="com.minderanews.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/createAccount"
+        android:name="com.minderanews.ui.account.CreateAccount"
+        android:label="fragment_create_account"
+        tools:layout="@layout/fragment_create_account" />
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="com.minderanews.ui.signIn.SignInFragment"
+        android:label="fragment_sign_in"
+        tools:layout="@layout/fragment_sign_in" />
 </navigation>
