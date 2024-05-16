@@ -12,10 +12,10 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.minderanews.ui.dashboard.DashboardFragment"
+        android:id="@+id/navigation_profile"
+        android:name="com.minderanews.ui.profile.ProfileFragment"
         android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_profile" />
 
     <fragment
         android:id="@+id/navigation_notifications"
@@ -32,4 +32,10 @@
         android:name="com.minderanews.ui.signIn.SignInFragment"
         android:label="fragment_sign_in"
         tools:layout="@layout/fragment_sign_in" />
+
+    <fragment
+        android:id="@+id/navigation_create"
+        android:name="com.minderanews.ui.create.CreateNewAndEvent"
+        android:label="@string/title_create"
+        tools:layout="@layout/fragment_create_new_and_event" />
 </navigation>

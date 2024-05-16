@@ -18,4 +18,6 @@
     <string name="enter_location">Enter Location</string>
     <string name="time">Time:</string>
     <string name="enter_time">Enter Time</string>
+    <string name="title_create">Create</string>
+    <string name="title_profile">Profile</string>
 </resources>
